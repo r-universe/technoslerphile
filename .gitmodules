@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MRMCsamplesize"]
+	path = MRMCsamplesize
+	url = https://github.com/technoslerphile/mrmcsamplesize
 [submodule "autoCovariateSelection"]
 	path = autoCovariateSelection
 	url = https://github.com/technoslerphile/autocovariateselection
